@@ -11,4 +11,4 @@ To run Space Encoder on selected text, any of these will work:
 
 - Control + s
 - Select the **Editor → Space Encoder** menu item
-- Open the command palette and type `Space Encoder`
+- Open the command palette and type `Encode Spaces`

@@ -15,7 +15,7 @@
     "commands": {
         "editor": [
             {
-                "title": "Convert Spaces",
+                "title": "Encode Spaces",
                 "command": "space-encoder.convertSpaces",
                 "shortcut": "ctrl-s"
             }
