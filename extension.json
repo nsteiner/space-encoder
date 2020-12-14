@@ -1,0 +1,24 @@
+{
+    "identifier": "org.SpaceEncoder",
+    "name": "Space Encoder",
+    "organization": "Nate Steiner",
+    "description": "Encode spaces",
+    "version": "1.0",
+    "categories": ["commands"],
+    "bugs": "https://github.com/nsteiner/space-encoder.novaextension/issues",
+    "homepage": "https://github.com/nsteiner/space-encoder.novaextension",
+    "repository": "https://github.com/nsteiner/space-encoder.novaextension.git",
+    "license": "MIT",
+    "main": "main.js",
+    "activationEvents": ["*"],
+    "entitlements": {},
+    "commands": {
+        "editor": [
+            {
+                "title": "Convert Spaces",
+                "command": "space-encoder.convertSpaces",
+                "shortcut": "ctrl-s"
+            }
+        ]
+    }
+}
